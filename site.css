@@ -1,0 +1,73 @@
+#MainBar {
+  background-color: #00B3BC;
+  color: rgb(255, 255, 255);
+}
+#barOne{
+  padding-top: 0px;
+}
+#profilePic {
+  padding: 1em;
+  width: 20em;
+  height: 20em;
+}
+.Work1{
+  background-color: #007AFF;
+  color: #FFFF;
+  padding: 5%;
+}
+
+
+.Work1Text {
+  /*padding: 2em;*/
+
+}
+#AWPC_logo {
+float: right;
+ width: 25em;
+ height: 25em;
+ background-color: #fff;
+
+
+}
+
+.Work2{
+  color: #FFFF;
+  background-color: #FE4A49;
+
+}
+.Work2Text {
+padding: 2%;
+
+}
+
+#OClogo {
+  width: 50%;
+  float: left;
+  padding-top: 5%;
+  padding-bottom: 15%;
+
+}
+
+#Swansea {
+  background-color: #242F60;
+  padding: 5%;
+  text-align: left;
+}
+#SwansaUniLogo {
+float: right;
+ width: 40%;
+
+ padding-bottom: 10%;
+
+}
+a {
+  color: #fff;
+  font-weight: bold;
+}
+#footerlink {
+  color: #000000;
+}
+footer{
+  width: 100%;
+  text-align: center;
+}
